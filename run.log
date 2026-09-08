@@ -10,3 +10,9 @@ Found 21 current listings across 3 source(s).
 No new listings.
 Email send FAILED: 401 {"statusCode":401,"name":"validation_error","message":"API key is invalid"}
 Snapshot unchanged.
+
+=== Run at 2026-09-08T09:50:54.887291 ===
+Found 21 current listings across 3 source(s).
+No new listings.
+Email sent OK: 200
+Snapshot unchanged.
