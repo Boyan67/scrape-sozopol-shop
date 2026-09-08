@@ -66,12 +66,19 @@ def fetch_imotbg() -> dict:
         info_tag = item.select_one("div.info")
         info = info_tag.get_text(strip=True) if info_tag else ""
 
+        img_tag = item.select_one("div.photo img")
+        image = ""
+        if img_tag and img_tag.get("src"):
+            src = img_tag["src"]
+            image = "https:" + src if src.startswith("//") else src
+
         listings[key] = {
             "source": "imot.bg",
             "url": listing_url,
             "location": location,
             "price": price,
             "info": info,
+            "image": image,
         }
     return listings
 
@@ -117,12 +124,22 @@ def fetch_alobg() -> dict:
             if desc:
                 info = (info + " — " + desc.get_text(strip=True)) if info else desc.get_text(strip=True)
 
+        img_tag = item.select_one(".listvip-image img")
+        image = ""
+        if img_tag and img_tag.get("src"):
+            src = img_tag["src"]
+            if src.startswith("http"):
+                image = src
+            else:
+                image = "https://www.alo.bg/" + src.lstrip("/")
+
         listings[key] = {
             "source": "alo.bg",
             "url": listing_url,
             "location": location or title,
             "price": price,
             "info": info,
+            "image": image,
         }
     return listings
 
@@ -162,12 +179,19 @@ def fetch_bazarbg() -> dict:
         title_tag = item.select_one("span.title")
         info = title_tag.get_text(strip=True) if title_tag else ""
 
+        img_tag = link_a.select_one("img")
+        image = ""
+        if img_tag and img_tag.get("src"):
+            src = img_tag["src"]
+            image = "https:" + src if src.startswith("//") else src
+
         listings[key] = {
             "source": "bazar.bg",
             "url": listing_url,
             "location": location,
             "price": price,
             "info": info,
+            "image": image,
         }
     return listings
 
@@ -211,12 +235,22 @@ def render_card(l: dict, badge: str = "") -> str:
         f"padding:2px 7px;border-radius:5px;margin-left:8px;vertical-align:middle;"
         f"letter-spacing:.03em;'>{l['source'].upper()}</span>"
     )
+    image_html = (
+        f"""<td width="120" style="padding:16px 0 16px 16px;vertical-align:top;">
+              <img src="{l['image']}" width="104" height="104" alt=""
+                   referrerpolicy="no-referrer"
+                   style="width:104px;height:104px;object-fit:cover;border-radius:8px;
+                          border:1px solid #d1d5db;display:block;">
+            </td>"""
+        if l.get("image") else ""
+    )
     return f"""
     <tr>
       <td style="padding:0 0 14px 0;">
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
                style="background:#ffffff;border:2px solid #9ca3af;border-radius:10px;overflow:hidden;">
           <tr>
+            {image_html}
             <td style="padding:16px 18px;">
               <div style="font-size:16px;font-weight:800;color:#000000;">
                 {l['price']}{badge_html}{source_html}

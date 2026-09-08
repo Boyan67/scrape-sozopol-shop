@@ -22,8 +22,16 @@ SOURCE_COLORS = {
 
 def render_row(key: str, l: dict) -> str:
     color = SOURCE_COLORS.get(l["source"], "#111827")
+    image = l.get("image", "")
+    thumb_html = (
+        f'<img src="{image}" referrerpolicy="no-referrer" '
+        f'style="width:64px;height:64px;object-fit:cover;border-radius:6px;border:1px solid #d1d5db;display:block;">'
+        if image else
+        '<div style="width:64px;height:64px;border-radius:6px;background:#e5e7eb;"></div>'
+    )
     return f"""
     <tr>
+      <td style="padding:10px 12px;border-bottom:1px solid #e5e7eb;">{thumb_html}</td>
       <td style="padding:10px 12px;border-bottom:1px solid #e5e7eb;">
         <span style="background:{color};color:#fff;font-size:10px;font-weight:800;
                      padding:2px 7px;border-radius:5px;letter-spacing:.03em;">
@@ -54,11 +62,12 @@ def main() -> None:
     html = f"""
     <html><head><meta charset="utf-8"><title>Sozopol Shop Listings</title></head>
     <body style="font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:#f3f4f6;padding:24px;">
-      <div style="max-width:1400px;margin:0 auto;">
+      <div style="max-width:1200px;margin:0 auto;">
         <h2 style="margin:0 0 4px 0;">Sozopol Shop/Office Rentals</h2>
         <div style="color:#6b7280;font-size:13px;margin-bottom:16px;">{len(items)} listings currently tracked</div>
         <table style="width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.1);">
           <tr style="background:#111827;color:#fff;text-align:left;">
+            <th style="padding:10px 12px;">Photo</th>
             <th style="padding:10px 12px;">Source</th>
             <th style="padding:10px 12px;">Price</th>
             <th style="padding:10px 12px;">Location</th>
