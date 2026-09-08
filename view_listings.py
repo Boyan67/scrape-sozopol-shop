@@ -54,18 +54,20 @@ def main() -> None:
     html = f"""
     <html><head><meta charset="utf-8"><title>Sozopol Shop Listings</title></head>
     <body style="font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:#f3f4f6;padding:24px;">
-      <h2 style="margin:0 0 4px 0;">Sozopol Shop/Office Rentals</h2>
-      <div style="color:#6b7280;font-size:13px;margin-bottom:16px;">{len(items)} listings currently tracked</div>
-      <table style="width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.1);">
-        <tr style="background:#111827;color:#fff;text-align:left;">
-          <th style="padding:10px 12px;">Source</th>
-          <th style="padding:10px 12px;">Price</th>
-          <th style="padding:10px 12px;">Location</th>
-          <th style="padding:10px 12px;">Details</th>
-          <th style="padding:10px 12px;">Link</th>
-        </tr>
-        {rows}
-      </table>
+      <div style="max-width:1400px;margin:0 auto;">
+        <h2 style="margin:0 0 4px 0;">Sozopol Shop/Office Rentals</h2>
+        <div style="color:#6b7280;font-size:13px;margin-bottom:16px;">{len(items)} listings currently tracked</div>
+        <table style="width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.1);">
+          <tr style="background:#111827;color:#fff;text-align:left;">
+            <th style="padding:10px 12px;">Source</th>
+            <th style="padding:10px 12px;">Price</th>
+            <th style="padding:10px 12px;">Location</th>
+            <th style="padding:10px 12px;">Details</th>
+            <th style="padding:10px 12px;">Link</th>
+          </tr>
+          {rows}
+        </table>
+      </div>
     </body></html>
     """
 
