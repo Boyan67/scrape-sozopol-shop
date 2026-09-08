@@ -1,0 +1,6 @@
+
+=== Run at 2026-09-08T09:39:15.434064 ===
+Found 21 current listings across 3 source(s).
+New listings: 4 -> ['imotbg:2m169895507453533', 'alobg:11403871', 'bazarbg:55965043', 'bazarbg:55965095']
+Email send FAILED: 401 {"statusCode":401,"name":"validation_error","message":"API key is invalid"}
+Snapshot updated.
