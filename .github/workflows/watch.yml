@@ -2,9 +2,11 @@ name: Sozopol Shop Watch
 
 on:
   schedule:
-    # 10:00 Europe/Sofia = 07:00 UTC during DST (summer).
-    # After DST ends in late October this will fire at 09:00 local instead of 10:00.
-    - cron: "0 7 * * *"
+    # GitHub's scheduler queues heavily at round UTC times (0 7 * * * fired 4-6h late
+    # in practice, e.g. 11:00-13:30 UTC instead of 07:00). An off-round minute dodges
+    # most of that congestion. ~06:53 UTC = ~09:53 Europe/Sofia during DST (summer);
+    # after DST ends in late October this becomes ~08:53 local.
+    - cron: "53 6 * * *"
   workflow_dispatch: {}
 
 permissions:
