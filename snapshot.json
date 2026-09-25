@@ -95,13 +95,13 @@
     "info": "3.95 €/кв.м, Магазин, Офис, Кабинет, Салон за красота, Спорт, Друго, 190 кв.м, Партер — Дава се под наем търговско помещение в централната част на гр. Созопол. Помещението е с площ 190 кв.м., на партерен етаж в жилищна сграда, със самостоятелен вход, състои се от търговска част на две ни..",
     "image": "https://www.alo.bg/user_files/a/antariasoz/10668947_140971331_medium.jpg"
   },
-  "bazarbg:53116846": {
+  "bazarbg:56222161": {
     "source": "bazar.bg",
-    "url": "https://bazar.bg/obiava-53116846/zawedenie-w-sozopol-pod-naem",
+    "url": "https://bazar.bg/obiava-56222161/targovsko-pomeshtenie-sozopol-veselata-ulitsa",
     "location": "гр. Созопол, Бургас",
-    "price": "12 000€",
-    "info": "Заведение в Созопол под наем",
-    "image": "https://cdn7.focus.bg/bazar/55/pics/55e9f3555703063f35170fc3bfe279c0.webp"
+    "price": "6 000€",
+    "info": "Търговско помещение Созопол -  Веселата улица",
+    "image": "https://cdn5.focus.bg/bazar/b8/pics/b8433c0af466d1afef7c680f398f4229.webp"
   },
   "bazarbg:55965043": {
     "source": "bazar.bg",
@@ -110,6 +110,14 @@
     "price": "3 950€",
     "info": "Търговско помещение Созопол - в блидост до Веселата улица",
     "image": "https://cdn6.focus.bg/bazar/0b/pics/0bc9c057b7ad599cf5771d922d10f5df.webp"
+  },
+  "bazarbg:53116846": {
+    "source": "bazar.bg",
+    "url": "https://bazar.bg/obiava-53116846/zawedenie-w-sozopol-pod-naem",
+    "location": "гр. Созопол, Бургас",
+    "price": "12 000€",
+    "info": "Заведение в Созопол под наем",
+    "image": "https://cdn7.focus.bg/bazar/55/pics/55e9f3555703063f35170fc3bfe279c0.webp"
   },
   "bazarbg:55965095": {
     "source": "bazar.bg",
