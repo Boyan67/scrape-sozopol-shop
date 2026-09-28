@@ -47,6 +47,14 @@
     "info": "4 кв.м, Партер от 1, Търговски обект, находящ се в гр. Созопол, в новия град, около площад 'Черно море', точно до 'Смаш Б ..., тел.: 0886400883",
     "image": "https://imotstatic1.focus.bg/imot/photosimotbg/2/464/2n179041672125464_b4.jpg"
   },
+  "alobg:11452232": {
+    "source": "alo.bg",
+    "url": "https://www.alo.bg/dava-se-pod-naem-11452232",
+    "location": "Созопол Стария град-център, Созопол, област  Бургас",
+    "price": "",
+    "info": "Подходящ за: Магазин, Офис, Кабинет, Салон за красота, 50 кв.м, Партер — Предлага се Магазин за промишлени стоки/работещ/ под наем, целогодишно. Намира се в партера на новопостроена жилищна сграда в центъра на Стария град на Созопол. Св",
+    "image": "https://www.alo.bg/img/no_image.svg"
+  },
   "alobg:11013004": {
     "source": "alo.bg",
     "url": "https://www.alo.bg/magazin-v-sozopol-11013004",
@@ -119,6 +127,30 @@
     "info": "Търговско помещение Созопол -  Веселата улица",
     "image": "https://cdn5.focus.bg/bazar/b8/pics/b8433c0af466d1afef7c680f398f4229.webp"
   },
+  "bazarbg:54226364": {
+    "source": "bazar.bg",
+    "url": "https://bazar.bg/obiava-54226364/dava-pod-naem-magazin-gr-sozopol-oblast-burgas",
+    "location": "гр. Созопол, Бургас",
+    "price": "5 000€",
+    "info": "Дава под наем МАГАЗИН, гр. Созопол, област Бургас",
+    "image": "https://imotstatic2.focus.bg/imot/photosimotbg/2/829/big1/2m177642595064829_Ze.jpg"
+  },
+  "bazarbg:53961466": {
+    "source": "bazar.bg",
+    "url": "https://bazar.bg/obiava-53961466/dava-pod-naem-magazin-gr-sozopol-oblast-burgas",
+    "location": "гр. Созопол, Бургас",
+    "price": "7 000€",
+    "info": "Дава под наем МАГАЗИН, гр. Созопол, област Бургас",
+    "image": "https://cdn3.focus.bg/imot/photosimotbg/2/557/big1/2m177435881604557_5G.jpg"
+  },
+  "bazarbg:54226427": {
+    "source": "bazar.bg",
+    "url": "https://bazar.bg/obiava-54226427/dava-pod-naem-ofis-gr-sozopol-oblast-burgas",
+    "location": "гр. Созопол, Бургас",
+    "price": "500€",
+    "info": "Дава под наем ОФИС, гр. Созопол, област Бургас",
+    "image": "https://imotstatic4.focus.bg/imot/photosimotbg/2/365/big1/2h177642628666365_8G.jpg"
+  },
   "bazarbg:56232839": {
     "source": "bazar.bg",
     "url": "https://bazar.bg/obiava-56232839/dava-pod-naem-zavedenie-gr-sozopol-oblast-burgas",
@@ -159,14 +191,6 @@
     "info": "Дава под наем ПРОМ. ПОМЕЩЕНИЕ, гр. Созопол, област Бургас",
     "image": "https://imotstatic4.focus.bg/imot/photosimotbg/2/995/big1/2q178629649712995_ba.jpg"
   },
-  "bazarbg:53961466": {
-    "source": "bazar.bg",
-    "url": "https://bazar.bg/obiava-53961466/dava-pod-naem-magazin-gr-sozopol-oblast-burgas",
-    "location": "гр. Созопол, Бургас",
-    "price": "7 000€",
-    "info": "Дава под наем МАГАЗИН, гр. Созопол, област Бургас",
-    "image": "https://cdn3.focus.bg/imot/photosimotbg/2/557/big1/2m177435881604557_5G.jpg"
-  },
   "bazarbg:54030502": {
     "source": "bazar.bg",
     "url": "https://bazar.bg/obiava-54030502/dava-pod-naem-magazin-gr-sozopol-oblast-burgas",
@@ -174,22 +198,6 @@
     "price": "2 500€",
     "info": "Дава под наем МАГАЗИН, гр. Созопол, област Бургас",
     "image": "https://cdn3.focus.bg/imot/photosimotbg/2/964/big1/2m177488446643964_pH.jpg"
-  },
-  "bazarbg:54226364": {
-    "source": "bazar.bg",
-    "url": "https://bazar.bg/obiava-54226364/dawa-pod-naem-magazin-gr-sozopol-oblast-burgas",
-    "location": "гр. Созопол, Бургас",
-    "price": "5 000€",
-    "info": "Дава под наем МАГАЗИН, гр. Созопол, област Бургас",
-    "image": "https://imotstatic2.focus.bg/imot/photosimotbg/2/829/big1/2m177642595064829_Ze.jpg"
-  },
-  "bazarbg:54226427": {
-    "source": "bazar.bg",
-    "url": "https://bazar.bg/obiava-54226427/dawa-pod-naem-ofis-gr-sozopol-oblast-burgas",
-    "location": "гр. Созопол, Бургас",
-    "price": "500€",
-    "info": "Дава под наем ОФИС, гр. Созопол, област Бургас",
-    "image": "https://imotstatic4.focus.bg/imot/photosimotbg/2/365/big1/2h177642628666365_8G.jpg"
   },
   "bazarbg:52193459": {
     "source": "bazar.bg",
