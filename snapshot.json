@@ -1,4 +1,12 @@
 {
+  "imotbg:2m177488446643964": {
+    "source": "imot.bg",
+    "url": "https://www.imot.bg/obiava-2m177488446643964-dava-pod-naem-magazin-oblast-burgas-gr-sozopol",
+    "location": "гр. Созопол, област Бургас",
+    "price": "2 500 €",
+    "info": "44 кв.м, Партер от 4,  Ауреа Ливинг  отдава под наем просторно търговско помещение от 44кв.м. в семеен хотел, който се нам ..., тел.: 0887294100",
+    "image": "https://imot.bg/images/picturess/icons/VIP-wrap.svg"
+  },
   "imotbg:2m176154898899651": {
     "source": "imot.bg",
     "url": "https://www.imot.bg/obiava-2m176154898899651-dava-pod-naem-magazin-oblast-burgas-gr-sozopol",
@@ -6,14 +14,6 @@
     "price": "750 €",
     "info": "190 кв.м, Партер от 4, Дава се под наем търговско помещение в централната част на гр. Созопол. Помещението е с площ 190 кв. ..., тел.: 0885775028",
     "image": "https://cdn3.focus.bg/imot/photosimotbg/2/651/2m176154898899651_Et.jpg"
-  },
-  "imotbg:2m177488446643964": {
-    "source": "imot.bg",
-    "url": "https://www.imot.bg/obiava-2m177488446643964-dava-pod-naem-magazin-oblast-burgas-gr-sozopol",
-    "location": "гр. Созопол, област Бургас",
-    "price": "2 500 €",
-    "info": "44 кв.м, Партер от 4,  Ауреа Ливинг  отдава под наем просторно търговско помещение от 44кв.м. в семеен хотел, който се нам ..., тел.: 0887294100",
-    "image": "https://cdn3.focus.bg/imot/photosimotbg/2/964/2m177488446643964_pH.jpg"
   },
   "imotbg:2m177642595064829": {
     "source": "imot.bg",
@@ -31,14 +31,6 @@
     "info": "43 кв.м, Партер от 1, НЕОС ЕСТЕЙТС Ви предлага ексклузивно предложение - търговско помещение под наем, в централната част  ..., тел.: 0885506001",
     "image": "https://cdn3.focus.bg/imot/photosimotbg/2/557/2m177435881604557_5G.jpg"
   },
-  "imotbg:2m169895507453533": {
-    "source": "imot.bg",
-    "url": "https://www.imot.bg/obiava-2m169895507453533-dava-pod-naem-magazin-oblast-burgas-gr-sozopol",
-    "location": "гр. Созопол, област Бургас",
-    "price": "Цена при запитване",
-    "info": "16 кв.м, Партер от 3, Помещението се намира в топ центъра на Новия град в Созопол на ул.Републиканска 25. Подходящо е за м ..., тел.: 0885525356",
-    "image": "https://imotstatic3.focus.bg/imot/photosimotbg/2/533/2m169895507453533_Qy.jpg"
-  },
   "imotbg:2n179041672125464": {
     "source": "imot.bg",
     "url": "https://www.imot.bg/obiava-2n179041672125464-dava-pod-naem-zavedenie-oblast-burgas-gr-sozopol",
@@ -46,6 +38,14 @@
     "price": "Цена при запитване",
     "info": "4 кв.м, Партер от 1, Търговски обект, находящ се в гр. Созопол, в новия град, около площад 'Черно море', точно до 'Смаш Б ..., тел.: 0886400883",
     "image": "https://imotstatic1.focus.bg/imot/photosimotbg/2/464/2n179041672125464_b4.jpg"
+  },
+  "alobg:11028658": {
+    "source": "alo.bg",
+    "url": "https://www.alo.bg/otdava-pod-naem-pomeshtenie-44kv-v-gr-sozopol-11028658",
+    "location": "Созопол, област  Бургас",
+    "price": "2500 €",
+    "info": "56.82 €/кв.м, Магазин, Офис, Кабинет, Салон за красота, Друго, 44 кв.м, Партер — „Ауреа Ливинг“ отдава под наем просторно търговско помещение от 44кв.м. в семеен хотел, който се намира на първа линия в новия град на Созопол. Към помещението има склад и самостоятелна баня с тоалетн..",
+    "image": "https://www.alo.bg/user_files/a/aurea2025/11028658_143498614_medium.jpg"
   },
   "alobg:11455105": {
     "source": "alo.bg",
@@ -78,14 +78,6 @@
     "price": "",
     "info": "Подходящ за: Магазин, Офис, Кабинет, Салон за красота, 50 кв.м, Партер — Предлага се Магазин за промишлени стоки/работещ/ под наем, целогодишно. Намира се в партера на новопостроена жилищна сграда в центъра на Стария град на Созопол. Св",
     "image": "https://www.alo.bg/img/no_image.svg"
-  },
-  "alobg:11403871": {
-    "source": "alo.bg",
-    "url": "https://www.alo.bg/top-centar-sozopol-nov-grad-11403871",
-    "location": "ул.Републиканска 25 - в близост до Веселата улица, Созопол, област  Бургас",
-    "price": "3950 €",
-    "info": "219.44 €/кв.м, Магазин, Офис, Кабинет, Салон за красота, Друго, Място в салон за красота, 18 кв.м, Партер — Дава се под наем търговско помещение, подходящо за бързо хранене, палачинки, сандвичи, кафе, фрешове, закуски, магазин, фризьорски салон или друг търговски бизнес.",
-    "image": "https://www.alo.bg/user_files/m/megas/11403871_146126447_medium.jpg"
   },
   "alobg:10821023": {
     "source": "alo.bg",
@@ -127,14 +119,6 @@
     "info": "3.95 €/кв.м, Магазин, Офис, Кабинет, Салон за красота, Спорт, Друго, 190 кв.м, Партер — Дава се под наем търговско помещение в централната част на гр. Созопол. Помещението е с площ 190 кв.м., на партерен етаж в жилищна сграда, със самостоятелен вход, състои се от търговска част на две ни..",
     "image": "https://www.alo.bg/user_files/a/antariasoz/10668947_140971331_medium.jpg"
   },
-  "bazarbg:56222161": {
-    "source": "bazar.bg",
-    "url": "https://bazar.bg/obiava-56222161/targovsko-pomeshtenie-sozopol-veselata-ulitsa",
-    "location": "гр. Созопол, Бургас",
-    "price": "6 000€",
-    "info": "Търговско помещение Созопол -  Веселата улица",
-    "image": "https://cdn5.focus.bg/bazar/b8/pics/b8433c0af466d1afef7c680f398f4229.webp"
-  },
   "bazarbg:54226364": {
     "source": "bazar.bg",
     "url": "https://bazar.bg/obiava-54226364/dava-pod-naem-magazin-gr-sozopol-oblast-burgas",
@@ -167,14 +151,6 @@
     "info": "Дава под наем ЗАВЕДЕНИЕ, гр. Созопол, област Бургас",
     "image": "https://imotstatic1.focus.bg/imot/photosimotbg/2/464/big1/2n179041672125464_b4.jpg"
   },
-  "bazarbg:55965043": {
-    "source": "bazar.bg",
-    "url": "https://bazar.bg/obiava-55965043/targovsko-pomeshtenie-sozopol-v-blidost-do-veselata-ulitsa",
-    "location": "гр. Созопол, Бургас",
-    "price": "3 950€",
-    "info": "Търговско помещение Созопол - в блидост до Веселата улица",
-    "image": "https://cdn6.focus.bg/bazar/0b/pics/0bc9c057b7ad599cf5771d922d10f5df.webp"
-  },
   "bazarbg:53116846": {
     "source": "bazar.bg",
     "url": "https://bazar.bg/obiava-53116846/zawedenie-w-sozopol-pod-naem",
@@ -182,14 +158,6 @@
     "price": "12 000€",
     "info": "Заведение в Созопол под наем",
     "image": "https://cdn7.focus.bg/bazar/55/pics/55e9f3555703063f35170fc3bfe279c0.webp"
-  },
-  "bazarbg:55965095": {
-    "source": "bazar.bg",
-    "url": "https://bazar.bg/obiava-55965095/dava-pod-naem-magazin-gr-sozopol-oblast-burgas",
-    "location": "гр. Созопол, Бургас",
-    "price": "Договаряне",
-    "info": "Дава под наем МАГАЗИН, гр. Созопол, област Бургас",
-    "image": "https://imotstatic3.focus.bg/imot/photosimotbg/2/533/big1/2m169895507453533_Qy.jpg"
   },
   "bazarbg:54030502": {
     "source": "bazar.bg",
