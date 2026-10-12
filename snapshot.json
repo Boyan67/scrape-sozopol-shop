@@ -1,12 +1,4 @@
 {
-  "imotbg:2m177488446643964": {
-    "source": "imot.bg",
-    "url": "https://www.imot.bg/obiava-2m177488446643964-dava-pod-naem-magazin-oblast-burgas-gr-sozopol",
-    "location": "гр. Созопол, област Бургас",
-    "price": "2 500 €",
-    "info": "44 кв.м, Партер от 4,  Ауреа Ливинг  отдава под наем просторно търговско помещение от 44кв.м. в семеен хотел, който се нам ..., тел.: 0887294100",
-    "image": "https://imot.bg/images/picturess/icons/VIP-wrap.svg"
-  },
   "imotbg:2m176154898899651": {
     "source": "imot.bg",
     "url": "https://www.imot.bg/obiava-2m176154898899651-dava-pod-naem-magazin-oblast-burgas-gr-sozopol",
@@ -14,6 +6,14 @@
     "price": "750 €",
     "info": "190 кв.м, Партер от 4, Дава се под наем търговско помещение в централната част на гр. Созопол. Помещението е с площ 190 кв. ..., тел.: 0885775028",
     "image": "https://cdn3.focus.bg/imot/photosimotbg/2/651/2m176154898899651_Et.jpg"
+  },
+  "imotbg:2m177488446643964": {
+    "source": "imot.bg",
+    "url": "https://www.imot.bg/obiava-2m177488446643964-dava-pod-naem-magazin-oblast-burgas-gr-sozopol",
+    "location": "гр. Созопол, област Бургас",
+    "price": "2 500 €",
+    "info": "44 кв.м, Партер от 4,  Ауреа Ливинг  отдава под наем просторно търговско помещение от 44кв.м. в семеен хотел, който се нам ..., тел.: 0887294100",
+    "image": "https://cdn3.focus.bg/imot/photosimotbg/2/964/2m177488446643964_pH.jpg"
   },
   "imotbg:2m177642595064829": {
     "source": "imot.bg",
@@ -38,14 +38,6 @@
     "price": "Цена при запитване",
     "info": "4 кв.м, Партер от 1, Търговски обект, находящ се в гр. Созопол, в новия град, около площад 'Черно море', точно до 'Смаш Б ..., тел.: 0886400883",
     "image": "https://imotstatic1.focus.bg/imot/photosimotbg/2/464/2n179041672125464_b4.jpg"
-  },
-  "alobg:11028658": {
-    "source": "alo.bg",
-    "url": "https://www.alo.bg/otdava-pod-naem-pomeshtenie-44kv-v-gr-sozopol-11028658",
-    "location": "Созопол, област  Бургас",
-    "price": "2500 €",
-    "info": "56.82 €/кв.м, Магазин, Офис, Кабинет, Салон за красота, Друго, 44 кв.м, Партер — „Ауреа Ливинг“ отдава под наем просторно търговско помещение от 44кв.м. в семеен хотел, който се намира на първа линия в новия град на Созопол. Към помещението има склад и самостоятелна баня с тоалетн..",
-    "image": "https://www.alo.bg/user_files/a/aurea2025/11028658_143498614_medium.jpg"
   },
   "alobg:11013004": {
     "source": "alo.bg",
