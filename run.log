@@ -274,3 +274,9 @@ Found 17 current listings across 3 source(s).
 No new listings.
 Email sent OK: 200
 Snapshot unchanged.
+
+=== Run at 2026-10-20T12:19:39.072699 ===
+Found 18 current listings across 3 source(s).
+New listings: 1 -> ['bazarbg:53116846']
+Email sent OK: 200
+Snapshot updated.
