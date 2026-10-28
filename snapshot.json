@@ -47,14 +47,6 @@
     "info": "60 €/кв.м, Магазин, Офис, 25 кв.м, Партер — Магазин на главната улица в Новия град на Созопол.",
     "image": "https://www.alo.bg/user_files/r/radost66666/11009713_143266833_medium.jpg"
   },
-  "alobg:11452232": {
-    "source": "alo.bg",
-    "url": "https://www.alo.bg/dava-se-pod-naem-11452232",
-    "location": "Созопол Стария град-център, Созопол, област  Бургас",
-    "price": "",
-    "info": "Подходящ за: Магазин, Офис, Кабинет, Салон за красота, 50 кв.м, Партер — Предлага се Магазин за промишлени стоки/работещ/ под наем, целогодишно. Намира се в партера на новопостроена жилищна сграда в центъра на Стария град на Созопол. Св",
-    "image": "https://www.alo.bg/img/no_image.svg"
-  },
   "alobg:10821023": {
     "source": "alo.bg",
     "url": "https://www.alo.bg/pomeshtenie-v-targovski-centar-10821023",
@@ -95,14 +87,6 @@
     "info": "3.95 €/кв.м, Магазин, Офис, Кабинет, Салон за красота, Спорт, Друго, 190 кв.м, Партер — Дава се под наем търговско помещение в централната част на гр. Созопол. Помещението е с площ 190 кв.м., на партерен етаж в жилищна сграда, със самостоятелен вход, състои се от търговска част на две ни..",
     "image": "https://www.alo.bg/user_files/a/antariasoz/10668947_140971331_medium.jpg"
   },
-  "bazarbg:56594143": {
-    "source": "bazar.bg",
-    "url": "https://bazar.bg/obiava-56594143/pod-naem-hotel-sozopol-ili-sadruzhie",
-    "location": "гр. Созопол, Бургас",
-    "price": "35 000€",
-    "info": "Под наем Хотел Созопол или съдружие !",
-    "image": "/img/gallery/noPhoto.svg"
-  },
   "bazarbg:56613520": {
     "source": "bazar.bg",
     "url": "https://bazar.bg/obiava-56613520/top-razraboten-hotel-v-sozopol-tarsi-sadruzhnik-speshno",
@@ -118,6 +102,14 @@
     "price": "Договаряне",
     "info": "Дава под наем ЗАВЕДЕНИЕ, гр. Созопол, област Бургас",
     "image": "https://imotstatic1.focus.bg/imot/photosimotbg/2/464/big1/2n179041672125464_b4.jpg"
+  },
+  "bazarbg:56594143": {
+    "source": "bazar.bg",
+    "url": "https://bazar.bg/obiava-56594143/pod-naem-hotel-sozopol-ili-sadruzhie",
+    "location": "гр. Созопол, Бургас",
+    "price": "35 000€",
+    "info": "Под наем Хотел Созопол или съдружие !",
+    "image": "/img/gallery/noPhoto.svg"
   },
   "bazarbg:53116846": {
     "source": "bazar.bg",
